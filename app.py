@@ -6,8 +6,11 @@ app = Flask(__name__)
 @app.route('/', methods=['GET', 'POST'])
 def index():
     error = None
+    
     dbConn = mariadbQuery.mariaDbConnection('seatest', '1234', '127.0.0.1', 3306, 'seadisaster')
+
     cursor = dbConn.cursor()
+    
     sql = """SELECT COUNT(case when at_period = '0-4시' AND at_season = '봄' then '봄' END) AS '봄1',
     COUNT(case when at_period = '0-4시' AND at_season = '여름' then '여름' END) AS '여름1',
     COUNT(case when at_period = '0-4시' AND at_season = '가을' then '가을' END) AS '가을1',
@@ -33,8 +36,10 @@ def index():
     COUNT(case when at_period = '20-24시' AND at_season = '가을' then '가을' END) AS '가을6',
     COUNT(case when at_period = '20-24시' AND at_season = '겨울' then '겨울' END) AS '겨울6'
     FROM accidents_time;"""
+
     sql2 = """SELECT SUM(ad_death) AS '사망총합', SUM(ad_missing) AS'실종총합', SUM(ad_injury) AS '부상총합', SUM(ad_sum) AS '전체총합'
     FROM accidents_damage;"""
+    
     sql3 = """SELECT SUM(TYPE LIKE '기관%') AS '기관손상',
 	SUM(TYPE LIKE '부%') AS '부유물감김',
 	SUM(TYPE LIKE '속%') AS '속구손상',
