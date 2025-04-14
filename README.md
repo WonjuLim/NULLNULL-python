@@ -11,19 +11,25 @@
 
 ## 팀원 소개
 <table>
-      <td align="canter">
+  https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da
+    <tr>
+    <td align="canter">
         임주원</br>
         <a href="http://github.com/WonjuLim>@WonjuLim</a>
-      <td align="canter">
+    </td>
+    <td align="canter">
         이희철</br>
         <a href="http://github.com/Lee-hee-chul>@Lee-hee-chul</a>
-      <td align="canter">
-        이예진</br>
-        <a href="http://github.com/chay-y>@chay-y</a>
-      <td align="canter">
-        윤슬찬</br>
-        <a href="http://github.com/Yum-sss>@Yum-sss</a>
-  
+    </td>
+    <td align="canter">
+      이예진</br>
+      <a href="http://github.com/chay-y>@chay-y</a>
+    </td>
+    <td align="canter">
+      윤슬찬</br>
+      <a href="http://github.com/Yum-sss>@Yum-sss</a>
+    </td>
+    </tr>
 </table>
 
 
