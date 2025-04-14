@@ -11,7 +11,6 @@
 
 ## 팀원 소개
 <table>
-  https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da
     <tr>
     <td align="canter">
         임주원</br>
