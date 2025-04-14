@@ -15,26 +15,7 @@
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="임주원" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="이희철" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이예진" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="윤슬찬" width="150"> |
 | PL | FE | FE | FE |
 | [GitHub](http://github.com/WonjuLim) | [GitHub](http://github.com/Lee-hee-chul) | [GitHub](http://github.com/chay-y) | [GitHub](http://github.com/Yum-sss) |
-<table>
-    <tr>
-    <td align="canter">
-        임주원</br>
-        <a href="http://github.com/WonjuLim>@WonjuLim</a>
-    </td>
-    <td align="canter">
-        이희철</br>
-        <a href="http://github.com/Lee-hee-chul>@Lee-hee-chul</a>
-    </td>
-    <td align="canter">
-      이예진</br>
-      <a href="http://github.com/chay-y>@chay-y</a>
-    </td>
-    <td align="canter">
-      윤슬찬</br>
-      <a href="http://github.com/Yum-sss>@Yum-sss</a>
-    </td>
-    </tr>
-</table>
+
 
 
 
