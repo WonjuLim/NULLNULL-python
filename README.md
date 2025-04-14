@@ -12,21 +12,22 @@
 ## 팀원 소개
 <table>
   <td align="canter">
-    팀장 임주원</br>
-    <a href="http://github.com/WonjuLim>@WonjuLim</a>
-  </td>
-  <td align="canter">
-    팀원 이희철</br>
-    <a href="http://github.com/Lee-hee-chul>@Lee-hee-chul</a>
-  </td>
-  <td align="canter">
-    팀원 이예진</br>
-    <a href="http://github.com/chay-y>@chay-y</a>
-  </td>
-  <td align="canter">
-    팀원 윤슬찬</br>
-    <a href="http://github.com/Yum-sss>@Yum-sss</a>
-  </td>
+        임주원</br>
+        <a href="http://github.com/WonjuLim>@WonjuLim</a>
+      </td>
+      <td align="canter">
+        이희철</br>
+        <a href="http://github.com/Lee-hee-chul>@Lee-hee-chul</a>
+      </td>
+      <td align="canter">
+        이예진</br>
+        <a href="http://github.com/chay-y>@chay-y</a>
+      </td>
+      <td align="canter">
+        윤슬찬</br>
+        <a href="http://github.com/Yum-sss>@Yum-sss</a>
+      </td>
+  
 </table>
 
 
