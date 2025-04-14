@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 # 팀 NULLNULL해요-산업현장 해상 사고 위치 알람 서비스 구현
 
 ## 프로젝트 소개
@@ -30,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
